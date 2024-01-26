@@ -6,7 +6,7 @@ Picture me as your trusty storyteller, translating the language of numbers into 
 
 📊 ###Let's Connect!
 <br>
-[**LinkedIn:**] [www.linkedin.com/in/ja-guerrero-arzaluz]
+**LinkedIn:** [www.linkedin.com/in/ja-guerrero-arzaluz]
 <br>
 **Email:** antonioguerreroarzaluzgmail.com
 <!--
