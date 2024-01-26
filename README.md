@@ -1,6 +1,7 @@
 ### Hello, Explorer!👋
 Welcome to the Data Odyssey!
 I'm Antonio, your companion in the realm of data, dedicated to unveiling the captivating stories woven within its depths. 
+<br>
 Picture me as your trusty storyteller, translating the language of numbers into narratives that inspire and inform.
 
 📊 Let's Connect!
