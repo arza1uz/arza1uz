@@ -4,9 +4,9 @@ I'm Antonio, your companion in the realm of data, dedicated to unveiling the cap
 <br>
 Picture me as your trusty storyteller, translating the language of numbers into narratives that inspire and inform.
 
-###📊 Let's Connect!
+📊 ###Let's Connect!
 <br>
-**LinkedIn:** www.linkedin.com/in/ja-guerrero-arzaluz
+[**LinkedIn:**] (www.linkedin.com/in/ja-guerrero-arzaluz)
 <br>
 **Email:** antonioguerreroarzaluzgmail.com
 <!--
