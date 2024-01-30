@@ -9,7 +9,7 @@ Picture me as your trusty storyteller, translating the language of numbers into 
 🎓BSc Pharmaceutical Science, UNAM
 ## 📋Projects
 Welcome to my Porfolio! <br>
-Happy to showcase my [Projects]()
+Happy to showcase my [Projects](https://github.com/arza1uz/Portfolio/blob/main/README.md#-portfolio)
 ## 💡Tools
 - Language: SQL, Phyton
 - Database: Google Big Query, PostgreSQL, MySQL
