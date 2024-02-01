@@ -4,7 +4,7 @@ Picture me as your trusty storyteller, translating the language of numbers into 
 <br>
 ## About Me
 💼 Data Analyst | Storytelling Enthusiast <br>
-📍 Exploring Digital Frontiers, Rooted in Mexico City!
+📍 Exploring Digital Frontiers, Rooted in **Mexico City!**
  <br>
 🎓BSc Pharmaceutical Science, UNAM
 ## 📋Projects
