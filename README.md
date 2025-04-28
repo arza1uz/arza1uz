@@ -12,8 +12,8 @@ Welcome to my Porfolio! <br>
 Happy to showcase my [Projects](https://github.com/arza1uz/Portfolio/blob/main/README.md#-portfolio)
 ## 💡Tools
 - Language: SQL, Phyton
-- Database: Google Big Query, PostgreSQL, MySQL
-- Visualization: Tableau, PowerBI
+- Database: Google Big Query, PostgreSQL
+- Visualization: Tableau, PowerBI, Quicksight
 ## 📊Let's Connect!
 [LinkedIn](www.linkedin.com/in/ja-guerrero-arzaluz)
 <br>
