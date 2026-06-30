@@ -1,83 +1,52 @@
-# Antonio Guerrero  
-**Business Architect | Data & Analytics | Cloud & Automation**
+# Antonio Guerrero
 
-I design and automate data-driven solutions that transform complex operational processes into **scalable systems, actionable insights, and measurable business impact**.  
-My work sits at the intersection of **data engineering, analytics, and business**, with a strong focus on fintech, financial reconciliations, and cloud-native architectures.
+**Data & Analytics Professional building toward Data Engineering, ML Engineering, and AI Engineering.**
 
-📍 Mexico City | 🌎 Open to global, data-driven environments
+I build data-driven systems that connect business operations, analytics, and engineering. My work sits at the intersection of financial operations, SQL/Python analytics, automation, and production-minded data systems, with a current focus on fintech data infrastructure through the Lexian Engineering Portfolio.
 
----
+## Current Focus
 
-## 🔍 Professional Summary
+- **Lexian Engineering Portfolio:** a fictional fintech engineering ecosystem built with synthetic data only.
+- **Transaction processing:** validation, batch pipelines, reporting, and operational readiness.
+- **Observability:** execution context, structured logging, and traceable pipeline runs.
+- **Data platform foundations:** data quality, modeling, orchestration, and cloud-aware design.
+- **ML/AI engineering path:** feature engineering, model lifecycle, RAG, agents, and evaluation as future learning stages.
 
-Data professional with experience in **data modeling, pipeline orchestration, cloud architectures, and KPI-driven analytics**.  
-I specialize in automating high-impact processes, building reliable data foundations, and enabling decision-making through well-designed analytics systems.
+## Engineering Path
 
-Background in **financial reconciliations, cloud services (AWS), and modern data stacks**, with a strong foundation in analytical thinking and system design.
+```text
+Analytics Foundations -> Data Engineering -> Data Platform -> ML Platform -> AI Engineering
+```
 
----
+## Featured Projects
 
-## 🧰 Core Skills & Technologies
+| Project | Status | Focus | Link |
+| --- | --- | --- | --- |
+| Lexian Transaction Engine | Active | Batch transaction processing, validation, tests, observability foundations | [Repository](https://github.com/arza1uz/lexian-transaction-engine) |
+| Portfolio Hub | Active | Central navigation for engineering, analytics, and planned ML/AI work | [Repository](https://github.com/arza1uz/Portfolio) |
+| Covid-19 Data Exploration | Foundation | SQL exploration and Tableau storytelling | [Repository](https://github.com/arza1uz/Covid-19-Data-Exploration) |
+| Nashville Housing Data Cleaning | Foundation | SQL data cleaning and preparation for analytics | [Repository](https://github.com/arza1uz/Nashville-Housing-Data-Cleaning) |
 
-### Data & Analytics
-- **SQL** (advanced querying, data modeling, analytics)
-- **Python** (automation, data processing, integrations)
-- **Pandas, NumPy, Scikit-learn** (analysis & ML fundamentals)
+## Technical Focus Areas
 
-### Data Platforms & Warehousing
-- **Amazon Redshift**
-- **Google BigQuery**
-- **PostgreSQL**
-- **Databricks (Lakehouse architecture)**
+| Capability | Current Focus |
+| --- | --- |
+| Data Engineering | Python, pandas, validation, testing, pipeline structure |
+| Analytics Engineering | SQL, data modeling, business metrics, data quality |
+| Cloud & Platforms | AWS foundations, warehouse concepts, orchestration path |
+| Software Engineering | Packaging, CI, documentation, RFCs, ADRs |
+| ML/AI Foundations | Feature engineering, model evaluation, RAG, responsible AI learning path |
 
-### Data Engineering & Orchestration
-- **Mage AI** – pipeline development & orchestration  
-- **dbt (Data Build Tool)** – analytics engineering & transformations  
-- **Apache Spark / PySpark** – distributed processing  
+## Education & Certifications
 
-### Cloud & Architecture
-- **AWS** – Lambda, S3, Glue, IAM  
-- Serverless & event-driven architectures  
-- Python-based integrations with internal tools and Slack  
+- AWS Solutions Architect Knowledge Badge
+- Google Data Analytics Professional Certificate
+- BSc in Pharmaceutical Sciences, UNAM
+- Current learning path: data engineering, ML systems, AI engineering, and cloud/data platform practices
 
-### Business Intelligence & Visualization
-- **Power BI** – KPI monitoring & executive dashboards  
-- **Tableau** – analytical storytelling  
-- **Amazon QuickSight** – cloud BI & reporting  
+## Connect
 
-### Data Science (Growth Path)
-- Machine learning fundamentals (regression, classification, evaluation)  
-- End-to-end model lifecycle awareness  
-- **Preparing for: Microsoft DP-100 – Data Scientist Associate**
-
----
-
-## 📌 Featured Projects
-
-This portfolio showcases real-world projects focused on:
-
-- Data architecture & modeling  
-- Automated financial reconciliations  
-- Cloud-based data pipelines  
-- KPI design and operational analytics  
-
-Each project is presented as a **case study**, covering:
-**problem context, architecture, tools, implementation, and business impact**.
-
-👉 View all projects here:  
-[Projects Portfolio](https://github.com/arza1uz/Portfolio/blob/main/README.md#-portfolio)
-
----
-
-## 🎓 Education & Certifications
-
-- **AWS Solutions Architect – Knowledge Badge**  
-- **Google Data Analytics Professional Certificate**  
-- **BSc in Pharmaceutical Sciences** – UNAM  
-
----
-
-## 📊 Let’s Connect
-
-🔗 [LinkedIn](https://www.linkedin.com/in/ja-guerrero-arzaluz)  
-📧 [Email](mailto:antonioguerreroarzaluz@gmail.com)
+- [Portfolio Hub](https://github.com/arza1uz/Portfolio)
+- [Lexian Transaction Engine](https://github.com/arza1uz/lexian-transaction-engine)
+- [LinkedIn](https://www.linkedin.com/in/ja-guerrero-arzaluz)
+- [Email](mailto:antonioguerreroarzaluz@gmail.com)
