@@ -1,52 +1,42 @@
 # Antonio Guerrero
 
-**Data & Analytics Professional building toward Data Engineering, ML Engineering, and AI Engineering.**
+**Data & Analytics Professional focused on fintech data systems, analytics engineering, and cloud-oriented data workflows.**
 
-I build data-driven systems that connect business operations, analytics, and engineering. My work sits at the intersection of financial operations, SQL/Python analytics, automation, and production-minded data systems, with a current focus on fintech data infrastructure through the Lexian Engineering Portfolio.
+I work across fintech operations, financial reconciliations, SQL, Python, BI, cloud data workflows, data validation, and automation. My current portfolio is organized around production-minded data systems, including graph-based auditability with Cypher/Neo4j and a longer-term path toward data platforms, analytics engineering, and AI-enabled operations.
 
 ## Current Focus
 
-- **Lexian Engineering Portfolio:** a fictional fintech engineering ecosystem built with synthetic data only.
-- **Transaction processing:** validation, batch pipelines, reporting, and operational readiness.
-- **Observability:** execution context, structured logging, and traceable pipeline runs.
-- **Data platform foundations:** data quality, modeling, orchestration, and cloud-aware design.
-- **ML/AI engineering path:** feature engineering, model lifecycle, RAG, agents, and evaluation as future learning stages.
+- Financial reconciliation and auditability
+- ETL/ELT and data validation workflows
+- Analytics engineering and data modeling
+- Graph-based traceability with Cypher
+- Cloud data platforms and automation
+- ML/AI foundations for operational systems
 
-## Engineering Path
-
-```text
-Analytics Foundations -> Data Engineering -> Data Platform -> ML Platform -> AI Engineering
-```
-
-## Featured Projects
+## Featured Work
 
 | Project | Status | Focus | Link |
 | --- | --- | --- | --- |
-| Lexian Transaction Engine | Active | Batch transaction processing, validation, tests, observability foundations | [Repository](https://github.com/arza1uz/lexian-transaction-engine) |
-| Portfolio Hub | Active | Central navigation for engineering, analytics, and planned ML/AI work | [Repository](https://github.com/arza1uz/Portfolio) |
-| Covid-19 Data Exploration | Foundation | SQL exploration and Tableau storytelling | [Repository](https://github.com/arza1uz/Covid-19-Data-Exploration) |
+| Lexian Transaction Engine | Active | Synthetic fintech transaction processing, validation, tests, CI, documentation | [Repository](https://github.com/arza1uz/lexian-transaction-engine) |
+| Portfolio Hub | Active | Central navigation for projects, roadmap, and learning milestones | [Repository](https://github.com/arza1uz/Portfolio) |
+| Covid-19 Data Exploration | Foundation | SQL exploration and Tableau visualization | [Repository](https://github.com/arza1uz/Covid-19-Data-Exploration) |
 | Nashville Housing Data Cleaning | Foundation | SQL data cleaning and preparation for analytics | [Repository](https://github.com/arza1uz/Nashville-Housing-Data-Cleaning) |
 
 ## Technical Focus Areas
 
-| Capability | Current Focus |
+| Capability | Focus |
 | --- | --- |
-| Data Engineering | Python, pandas, validation, testing, pipeline structure |
-| Analytics Engineering | SQL, data modeling, business metrics, data quality |
-| Cloud & Platforms | AWS foundations, warehouse concepts, orchestration path |
-| Software Engineering | Packaging, CI, documentation, RFCs, ADRs |
-| ML/AI Foundations | Feature engineering, model evaluation, RAG, responsible AI learning path |
+| Data Engineering & ETL | Python, pandas, validation, batch pipelines, testing |
+| SQL & Warehousing | SQL analysis, data modeling, warehouse foundations |
+| Analytics Engineering | KPI thinking, dbt path, documentation, data quality |
+| BI & Reporting | Power BI, Tableau, business-facing metrics |
+| Cloud Data Platforms | AWS-oriented workflows, S3/Glue/Athena/Redshift path |
+| Graph Databases & Auditability | Neo4j, Cypher, lineage, traceability, investigations |
+| Software Engineering Practices | Git, CI, modular design, RFCs, ADRs, documentation |
 
-## Education & Certifications
+## Links
 
-- AWS Solutions Architect Knowledge Badge
-- Google Data Analytics Professional Certificate
-- BSc in Pharmaceutical Sciences, UNAM
-- Current learning path: data engineering, ML systems, AI engineering, and cloud/data platform practices
-
-## Connect
-
-- [Portfolio Hub](https://github.com/arza1uz/Portfolio)
+- [Portfolio](https://github.com/arza1uz/Portfolio)
 - [Lexian Transaction Engine](https://github.com/arza1uz/lexian-transaction-engine)
 - [LinkedIn](https://www.linkedin.com/in/ja-guerrero-arzaluz)
 - [Email](mailto:antonioguerreroarzaluz@gmail.com)
