@@ -20,10 +20,11 @@ I like building systems that make operational work easier to trust: pipelines th
 | **Python** | Correlation Analysis Toolkit | Explore relationships between operational metrics and produce clear analytical outputs. | Python, pandas, NumPy, statistics, visualization |
 | **Python** | Web Scraping Data Pipeline | Collect public web data, validate records, and store structured outputs with clear ethical boundaries. | Python, requests, BeautifulSoup, pandas |
 | **Databricks** | Lakehouse Analytics Project | Build an ingestion, transformation, and analytical modeling workflow in a lakehouse pattern. | Databricks, PySpark, Delta Lake, SQL |
+| **Analytics Engineering** | PySpark + dbt Transformation Layer | Build scalable transformations and documented analytics models with tests and clear ownership. | PySpark, dbt, SQL, Delta Lake, data modeling |
 
 ## Core Skill Set
 
-`Python` · `SQL` · `pandas` · `Mage` · `AWS S3` · `Redshift` · `parquet` · `Grafana` · `Tableau` · `Power BI` · `Databricks` · `PySpark`
+`Python` · `SQL` · `pandas` · `Mage` · `AWS S3` · `Redshift` · `parquet` · `Grafana` · `Tableau` · `Power BI` · `Databricks` · `PySpark` · `dbt`
 
 ## Contact
 
