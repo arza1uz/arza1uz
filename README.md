@@ -19,15 +19,18 @@ I like building systems that make operational work easier to trust: pipelines th
 | --- | --- | --- | --- |
 | **Python** | Correlation Analysis Toolkit | Explore relationships between operational metrics and produce clear analytical outputs. | Python, pandas, NumPy, statistics, visualization |
 | **Python** | Web Scraping Data Pipeline | Collect public web data, validate records, and store structured outputs with clear ethical boundaries. | Python, requests, BeautifulSoup, pandas |
+| **Machine Learning** | Object Detection with TensorFlow | Build a computer vision workflow for detecting objects in images and evaluating model performance. | Python, TensorFlow, computer vision, model evaluation |
+| **Real-Time Data Engineering** | Real-Time Stocks Data Pipeline | Stream market data from an API, orchestrate transformations, warehouse it in Snowflake, and present dashboard-ready insights. | Python, APIs, Snowflake, dbt, Apache Airflow, SQL |
 | **Databricks** | Lakehouse Analytics Project | Build an ingestion, transformation, and analytical modeling workflow in a lakehouse pattern. | Databricks, PySpark, Delta Lake, SQL |
 | **Analytics Engineering** | PySpark + dbt Transformation Layer | Build scalable transformations and documented analytics models with tests and clear ownership. | PySpark, dbt, SQL, Delta Lake, data modeling |
+| **Microsoft Fabric** | Fabric Evaluation Project | Research whether Fabric is worth a full portfolio project, focusing on lakehouse workflows, semantic models, and BI integration. | Microsoft Fabric, OneLake, Power BI, SQL |
 
 ## Core Skill Set
 
-`Python` · `SQL` · `pandas` · `Mage` · `AWS S3` · `Redshift` · `parquet` · `Grafana` · `Tableau` · `Power BI` · `Databricks` · `PySpark` · `dbt`
+`Python` · `SQL` · `pandas` · `Mage` · `AWS S3` · `Redshift` · `parquet` · `Grafana` · `Tableau` · `Power BI` · `Databricks` · `PySpark` · `dbt` · `Snowflake` · `Airflow` · `TensorFlow`
 
 ## Contact
 
-- [Portfolio](https://github.com/arza1uz/Portfolio/tree/docs/redesign-portfolio-clean-landing)
+- [Portfolio](https://github.com/arza1uz/Portfolio)
 - [LinkedIn](https://www.linkedin.com/in/ja-guerrero-arzaluz)
 - [Email](mailto:antonioguerreroarzaluz@gmail.com)
