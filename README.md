@@ -1,50 +1,32 @@
 # Antonio Guerrero
 
-**Data & Analytics professional focused on fintech data systems, financial operations, reconciliation workflows, SQL analytics, Python automation, and cloud-oriented data workflows.**
+**Data & Analytics Engineer focused on financial operations, reconciliation automation, auditability, and cloud-oriented analytics.**
 
-I work at the intersection of financial operations, analytics, and data engineering. My work focuses on turning operational data into reliable analytical workflows through SQL, Python, data validation, business intelligence, warehouse modeling, and automation. I am currently building **Lexian**, a synthetic fintech data portfolio focused on transaction processing, observability, warehouse analytics, reconciliation controls, auditability, and graph-based traceability.
+I like building systems that make operational work easier to trust: pipelines that reduce manual review, outputs that can be audited, and documentation that helps business users understand what changed without reading code.
 
-## What I Work On
+## Selected Work
 
-- Financial reconciliation and operational controls
-- SQL analytics and data validation
-- Python automation and batch data workflows
-- DuckDB warehouse modeling and analytical queries
-- Analytics engineering with marts, metrics, and reusable business models
-- Graph auditability with Neo4j and Cypher for investigation workflows
+| Area | Project | Impact | Skills |
+| --- | --- | --- | --- |
+| **Python & Data Engineering** | [Mage Reconciliation Automation](https://github.com/arza1uz/Portfolio/blob/docs/redesign-portfolio-clean-landing/docs/reconciliation-platform.md) | Reduced daily reconciliation review from **2h to 15m** and made status history auditable through S3, parquet, and Redshift-ready outputs. | Python, Mage, AWS S3, parquet, Redshift, Grafana |
+| **SQL & Analytics** | [Covid-19 Data Exploration](https://github.com/arza1uz/Covid-19-Data-Exploration) | Explored public health data through analytical SQL patterns and country-level comparisons. | SQL, CTEs, joins, window functions |
+| **SQL Data Cleaning** | [Nashville Housing Data Cleaning](https://github.com/arza1uz/Nashville-Housing-Data-Cleaning) | Cleaned and standardized messy housing data for downstream analysis. | SQL, deduplication, parsing, data quality |
+| **BI & Storytelling** | [Covid-19 Tableau Dashboard](https://public.tableau.com/app/profile/jos.antonio.guerrero.arzaluz/viz/Covid-19Dashboard_17065988084280/Dashboard1?publish=yes) | Turned analytical results into a dashboard for faster review and communication. | Tableau, dashboards, KPI storytelling |
 
-## Core Tools
+## Next Builds
 
-- **Data & Analytics:** SQL, Python, pandas, DuckDB, PostgreSQL, Amazon Redshift, BigQuery
-- **Analytics Engineering:** data modeling, marts, metrics, validation checks, KPI logic, dbt-style workflows
-- **BI & Reporting:** Power BI, Tableau, QuickSight
-- **Cloud & Data Platforms:** AWS S3, Glue, Lambda, Athena, Redshift, Databricks
-- **Auditability & Graphs:** Neo4j, Cypher, reconciliation lineage, graph-based investigation
-- **Software Practices:** Git, GitHub Actions, pytest, ruff, logging, CI
+| Area | Project | Focus | Skills |
+| --- | --- | --- | --- |
+| **Python** | Correlation Analysis Toolkit | Explore relationships between operational metrics and produce clear analytical outputs. | Python, pandas, NumPy, statistics, visualization |
+| **Python** | Web Scraping Data Pipeline | Collect public web data, validate records, and store structured outputs with clear ethical boundaries. | Python, requests, BeautifulSoup, pandas |
+| **Databricks** | Lakehouse Analytics Project | Build an ingestion, transformation, and analytical modeling workflow in a lakehouse pattern. | Databricks, PySpark, Delta Lake, SQL |
 
-## Featured Work
+## Core Skill Set
 
-### Lexian Engineering Portfolio
+`Python` · `SQL` · `pandas` · `Mage` · `AWS S3` · `Redshift` · `parquet` · `Grafana` · `Tableau` · `Power BI` · `Databricks` · `PySpark`
 
-Synthetic fintech data systems portfolio focused on transaction processing, observability, local analytical warehousing, SQL analytics, reconciliation validation, and auditability. [View Portfolio](https://github.com/arza1uz/Portfolio)
+## Contact
 
-### Lexian Transaction Engine
-
-Production-minded Python project for synthetic transaction processing, operational observability, DuckDB warehouse foundations, and SQL analytics. [View Repository](https://github.com/arza1uz/lexian-transaction-engine)
-
-### Analytics Foundations
-
-Selected SQL, data cleaning, and BI projects used to demonstrate core analytical foundations. [View Portfolio](https://github.com/arza1uz/Portfolio#analytics-foundations)
-
-## Current Focus
-
-- Analytics engineering layer: marts, metrics definitions, validation models.
-- Reconciliation and break management: matching logic, statuses, controls, audit outputs.
-- Graph auditability: Neo4j/Cypher model for lineage and investigation.
-
-## Links
-
-- [Portfolio](https://github.com/arza1uz/Portfolio)
-- [Lexian Transaction Engine](https://github.com/arza1uz/lexian-transaction-engine)
+- [Portfolio](https://github.com/arza1uz/Portfolio/tree/docs/redesign-portfolio-clean-landing)
 - [LinkedIn](https://www.linkedin.com/in/ja-guerrero-arzaluz)
 - [Email](mailto:antonioguerreroarzaluz@gmail.com)
