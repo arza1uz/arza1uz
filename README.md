@@ -1,46 +1,32 @@
 # Antonio Guerrero
 
-**Data & Analytics Engineer focused on financial operations, reconciliation automation, auditability, and cloud-oriented data workflows.**
+**Data & Analytics Engineer focused on financial operations, reconciliation automation, auditability, and cloud-oriented analytics.**
 
-I build practical data systems that reduce manual work, make operational evidence easier to review, and give business teams cleaner visibility into transaction status, controls, and exceptions.
+I like building systems that make operational work easier to trust: pipelines that reduce manual review, outputs that can be audited, and documentation that helps business users understand what changed without reading code.
 
-## Featured Work
+## Selected Work
 
-### Mage Reconciliation Automation
+| Area | Project | Impact | Skills |
+| --- | --- | --- | --- |
+| **Python & Data Engineering** | [Mage Reconciliation Automation](https://github.com/arza1uz/Portfolio/blob/docs/redesign-portfolio-clean-landing/docs/reconciliation-platform.md) | Reduced daily reconciliation review from **2h to 15m** and made status history auditable through S3, parquet, and Redshift-ready outputs. | Python, Mage, AWS S3, parquet, Redshift, Grafana |
+| **SQL & Analytics** | [Covid-19 Data Exploration](https://github.com/arza1uz/Covid-19-Data-Exploration) | Explored public health data through analytical SQL patterns and country-level comparisons. | SQL, CTEs, joins, window functions |
+| **SQL Data Cleaning** | [Nashville Housing Data Cleaning](https://github.com/arza1uz/Nashville-Housing-Data-Cleaning) | Cleaned and standardized messy housing data for downstream analysis. | SQL, deduplication, parsing, data quality |
+| **BI & Storytelling** | [Covid-19 Tableau Dashboard](https://public.tableau.com/app/profile/jos.antonio.guerrero.arzaluz/viz/Covid-19Dashboard_17065988084280/Dashboard1?publish=yes) | Turned analytical results into a dashboard for faster review and communication. | Tableau, dashboards, KPI storytelling |
 
-Sanitized case study of a reconciliation platform built around Mage, Python, S3, parquet outputs, Redshift-ready audit tables, Grafana alerting, and GitHub automation.
+## Next Builds
 
-- Reduced daily reconciliation work from about **2 hours to 15 minutes**.
-- Reduced new reconciliation setup from about **3 hours to 1 hour**.
-- Produced a **100% auditable** trail through stored run evidence, full reconciliation snapshots, and status history.
-- Fed a downstream Redshift schema and frontend so auditors could review transaction changes without reading code.
+| Area | Project | Focus | Skills |
+| --- | --- | --- | --- |
+| **Python** | Correlation Analysis Toolkit | Explore relationships between operational metrics and produce clear analytical outputs. | Python, pandas, NumPy, statistics, visualization |
+| **Python** | Web Scraping Data Pipeline | Collect public web data, validate records, and store structured outputs with clear ethical boundaries. | Python, requests, BeautifulSoup, pandas |
+| **Databricks** | Lakehouse Analytics Project | Build an ingestion, transformation, and analytical modeling workflow in a lakehouse pattern. | Databricks, PySpark, Delta Lake, SQL |
 
-[View Portfolio](https://github.com/arza1uz/Portfolio)
+## Core Skill Set
 
-## What I Work On
+`Python` · `SQL` · `pandas` · `Mage` · `AWS S3` · `Redshift` · `parquet` · `Grafana` · `Tableau` · `Power BI` · `Databricks` · `PySpark`
 
-- Financial reconciliation and break management.
-- Python automation and batch data workflows.
-- S3/parquet storage patterns for audit evidence.
-- Redshift-oriented data models and analytics layers.
-- SQL analytics, data validation, and operational controls.
-- Grafana/GitHub operational integrations using secret-managed tokens.
+## Contact
 
-## Core Tools
-
-- **Data Engineering:** Python, SQL, pandas, parquet, Mage, Amazon S3, Amazon Redshift.
-- **Analytics Engineering:** data modeling, validation checks, status history, KPI logic, audit tables.
-- **BI & Reporting:** Power BI, Tableau, QuickSight.
-- **Software Practices:** Git, GitHub Actions, pytest, logging, CI, documentation.
-
-## Earlier Analytics Projects
-
-- [Covid-19 Data Exploration](https://github.com/arza1uz/Covid-19-Data-Exploration)
-- [Nashville Housing Data Cleaning](https://github.com/arza1uz/Nashville-Housing-Data-Cleaning)
-- [Covid-19 Tableau Dashboard](https://public.tableau.com/app/profile/jos.antonio.guerrero.arzaluz/viz/Covid-19Dashboard_17065988084280/Dashboard1?publish=yes)
-
-## Links
-
-- [Portfolio](https://github.com/arza1uz/Portfolio)
+- [Portfolio](https://github.com/arza1uz/Portfolio/tree/docs/redesign-portfolio-clean-landing)
 - [LinkedIn](https://www.linkedin.com/in/ja-guerrero-arzaluz)
 - [Email](mailto:antonioguerreroarzaluz@gmail.com)
